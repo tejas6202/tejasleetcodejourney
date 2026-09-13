@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejas6202/tejasleetcodejourney/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/tejas6202/tejasleetcodejourney/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
